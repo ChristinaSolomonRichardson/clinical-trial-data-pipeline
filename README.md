@@ -1,4 +1,3 @@
-# clinical-trial-data-pipeline
 # Clinical Trial Data Integration & Reporting Pipeline (SAS)
 
 ## Project Overview
